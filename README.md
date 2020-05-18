@@ -1,4 +1,4 @@
-# Proein coding HMMsfor Fungal Phylogenomics
+# Protein coding HMMsfor Fungal Phylogenomics
 
 This repository contains three sets of HMMs for Phylogenomic analyses. It is mostly intended to be used with [PHYling](https://github.com/stajichlab/PHYling_unified) which expects the folder structure in here and searches each of these HMMs against each species set of proteins.  
 
